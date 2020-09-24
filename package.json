@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/furknyavuz/sample-github-api-consumer-nodejs.git"
+    "url": "git+https://github.com/flavioro/github-api-consumer-nodejs-mongodb.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/furknyavuz/sample-github-api-consumer-nodejs/issues"
+    "url": "https://github.com/flavioro/github-api-consumer-nodejs-mongodb"
   },
-  "homepage": "https://github.com/furknyavuz/sample-github-api-consumer-nodejs#readme",
+  "homepage": "https://github.com/flavioro/github-api-consumer-nodejs-mongodb#readme",
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "1.7.0",
